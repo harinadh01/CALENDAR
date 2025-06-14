@@ -1,5 +1,7 @@
 # Calendar Web Application
 
+![image alt](https://github.com/harinadh01/CALENDAR/blob/main/Screenshot%202025-06-14%20100059.png)
+
 ## Overview
 
 A responsive, interactive calendar application built with HTML, CSS, and JavaScript. This calendar allows users to:
